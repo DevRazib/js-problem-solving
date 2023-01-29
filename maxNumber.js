@@ -14,7 +14,11 @@ else if(Num2>Num1 && Num2>Num3){
 else{
   console.log('The largest number is', Num3);
 }
-const numOne=134, numTwo=79, numThree=45;
-const manNumber =Math.max(numOne,numTwo,numThree);
+
+
+//try another way
+
+const numOne=134, numTwo=79, numThree=45; numFour=546;
+const manNumber =Math.max(numOne,numTwo,numThree,numFour);
 console.log(manNumber);
 
