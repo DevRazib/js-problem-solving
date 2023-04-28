@@ -1,0 +1,2 @@
+there are three based in recursive way
+https://medium.com/swlh/problem-solving-in-javascript-1a455e3bf4eb

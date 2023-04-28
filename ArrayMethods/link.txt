@@ -1,0 +1,11 @@
+https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209
+
+https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/
+
+https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
+
+https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d
+
+//envato tuts react
+https://github.com/tutsplus/learn-react
+https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a
