@@ -22,3 +22,6 @@ const numOne=134, numTwo=79, numThree=45; numFour=546;
 const manNumber =Math.max(numOne,numTwo,numThree,numFour);
 console.log(manNumber);
 
+
+let num=[110,10,50,202,90, 100, 150];
+console.log(`The Highest number is`, Math.max(...num));
