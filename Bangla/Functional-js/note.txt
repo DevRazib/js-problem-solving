@@ -8,3 +8,19 @@
 3.shared state 
 4.Mutable data 
 5.Side Effect  
+===
+first class function:Functions that can be assigned to a variable, passed into another function, or returned from another function just like any other normal value, are called first class functions.
+---------------
+ first class function features 
+    a) A function can be stored in a variable 
+    b)A function can be stored in an array 
+    c)A function can be stored as a object field or property 
+    d)WE can create function as needed 
+    e)We can pass function as an arguments
+    f) We can return function from another function
+    ========= higher order function
+      a)map , filter , reduce and forEach
+=============== read article as well =========
+1)https://www.syncfusion.com/blogs/post/7-functional-programming-techniques-for-javascript-developers.aspx
+2.https://www.freecodecamp.org/news/functional-programming-in-javascript/
+3.https://hackernoon.com/functional-programming-with-javascript-a-deep-dive      
