@@ -1,10 +1,11 @@
 ## functional programming means all about functions
 ## oop theke o chuto kore venge venge code kora jai 
 ## kiss -  keep it simple, stupid 
+(if you know better callback,function return and closure functional programming is nothing for you)
 ========= functional programming buzz word
 1. pure function - same input same output 
 2.function composition
--------
+-------try to avoid those-------
 3.shared state 
 4.Mutable data 
 5.Side Effect  
@@ -23,4 +24,6 @@ first class function:Functions that can be assigned to a variable, passed into a
 =============== read article as well =========
 1)https://www.syncfusion.com/blogs/post/7-functional-programming-techniques-for-javascript-developers.aspx
 2.https://www.freecodecamp.org/news/functional-programming-in-javascript/
-3.https://hackernoon.com/functional-programming-with-javascript-a-deep-dive      
+3.https://hackernoon.com/functional-programming-with-javascript-a-deep-dive   
+===yt=>stack learner +zaiste programming + miss google + Envato Tuts 
+=== for theory => JSConf  

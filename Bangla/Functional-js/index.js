@@ -1,7 +1,6 @@
 // ----------- stack learner --------------
 
 //A function can be stored in a variable 
-
 function sayName(name){
   return `Hello ${name}`;
 }
