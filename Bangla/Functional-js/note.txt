@@ -3,8 +3,8 @@
 ## kiss -  keep it simple, stupid 
 (if you know better callback,function return and closure functional programming is nothing for you)
 ========= functional programming buzz word
-1. pure function - same input same output 
-2.function composition
+1. pure function - same input same output (not dependent on other)
+2.function composition - onek code na nile aksathe code combined kore likha 
 -------try to avoid those-------
 3.shared state 
 4.Mutable data 

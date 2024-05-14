@@ -1,5 +1,4 @@
 //https://builtin.com/software-engineering-perspectives/callback-function
-
 function mainFunction(callback) {
   console.log("Performing operation...");
   // Use setTimeout to simulate an asynchronous operation
@@ -20,5 +19,12 @@ function mainFunction(callback) {
 
 
   // closure -
-  
+
+  function outer(){
+    function inner(){
+      console.log(`I'm inner function`)
+    }
+    console.log(`I'm outer function`)
+  }
+  outer();
   

@@ -1,5 +1,7 @@
 // ----------- stack learner --------------
 
+
+// first class function 
 //A function can be stored in a variable 
 function sayName(name){
   return `Hello ${name}`;
@@ -28,3 +30,7 @@ var person={
   }
 }
 console.log(person)
+
+// we can pass function as needed 
+var sum=10+(function(){ return 50})();
+console.log(sum)
