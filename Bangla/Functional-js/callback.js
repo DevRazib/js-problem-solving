@@ -16,8 +16,6 @@ function mainFunction(callback) {
   mainFunction(callbackFunction);
   //This code is contributed by Veerendra Singh Rajpoot
 
-
-
   // closure -
 
   function outer(){
@@ -27,4 +25,19 @@ function mainFunction(callback) {
     console.log(`I'm outer function`)
   }
   outer();
-  
+
+
+  // return statement 
+  //return- na korle function a jai koren na keno valo output paben naa
+  // 
+  function example(){
+    return{
+      name:'razib',
+      skill:['js','react'],
+      print:function(){
+        console.log(`this.name, this.skill`)
+      }
+    }
+  }
+  var obj=example();
+  obj.print();

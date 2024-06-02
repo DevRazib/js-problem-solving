@@ -34,3 +34,21 @@ console.log(person)
 // we can pass function as needed 
 var sum=10+(function(){ return 50})();
 console.log(sum)
+
+
+// forEach
+const arr2=[5,9,1,2,3,4,5]
+
+//first do it normally 
+function loop(arr){
+  for (var i=0; i<arr2.length;i++){
+    console.log(arr2[i])
+  }
+}
+loop(arr2);
+
+// ============== now with forEach
+
+arr2.forEach(function(ele,ind,arr){
+  console.log(`Element is ${ele} . Index is ${ind}`)
+})
