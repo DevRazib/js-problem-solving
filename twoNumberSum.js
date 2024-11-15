@@ -1,5 +1,4 @@
 
-
 function mySum(a,b){
 	return a + b;
 }
@@ -21,4 +20,8 @@ const Summation=num1 + num2;
 //display the sum
 
 console.log(`The sum of ${num1} and ${num2} is : ${Summation}`)
+
+let numberOne=100;
+let numberTwo=200;
+console.log(`The sum of ${numberOne} and ${numberTwo} is ${numberOne+numberTwo}`)
 
